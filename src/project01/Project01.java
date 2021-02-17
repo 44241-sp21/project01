@@ -7,9 +7,7 @@ package project01;
 
 /**
  *
- * Authors: 
- * Project Description:
- * Date:
+ * Authors: Project Description: Date:
  */
 public class Project01 {
 
@@ -18,6 +16,7 @@ public class Project01 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("Hello");
     }
-    
+
 }

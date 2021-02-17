@@ -7,7 +7,7 @@ package project01;
 
 /**
  *
- * Authors: Project Description: Date:
+ * Authors: Linville Description: Date:
  */
 public class Project01 {
 
